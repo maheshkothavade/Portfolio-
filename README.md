@@ -4,6 +4,24 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 ### Weblink:
 ## Some Images:
 
+![Capture](https://github.com/user-attachments/assets/771378f1-1638-42c0-9db3-2da966901fd8)
+
+![Screenshot (141)](https://github.com/user-attachments/assets/d46dd403-1a27-40db-b3f0-cb9a76cc025e)
+
+![Screenshot (142)](https://github.com/user-attachments/assets/9cfd2ce9-d36c-4012-9359-940091ae4bd2)
+
+![Screenshot (143)](https://github.com/user-attachments/assets/d192c741-2e1c-435d-a88d-7e145746590b)
+
+![Screenshot (144)](https://github.com/user-attachments/assets/08ec541e-d682-4172-b7f4-ce15c9905b3b)
+
+![Screenshot (145)](https://github.com/user-attachments/assets/60b98aea-7be4-4a7e-b389-2f5854c1651f)
+
+![Screenshot (146)](https://github.com/user-attachments/assets/a93db581-6aad-4c80-bef6-931a6d285744)
+
+
+
+
+
 
 ## Table of Contents
 - [Introduction](#introduction)
